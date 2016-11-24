@@ -48,8 +48,8 @@
   version: 76193ffff33863ae08bb78669bc22a064baeeac2
 - name: os_keystone
   scm: git
-  src: https://git.openstack.org/openstack/openstack-ansible-os_keystone
-  version: f4eabced3e96187bf5a3ffebaac4a14d15f30619
+  src: https://github.com/systems-sk/openstack-ansible-os_keystone
+  version: 1f69dab89c5ea0ba389c5c1a1ed73d162456944b
 - name: openstack_openrc
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-openstack_openrc
